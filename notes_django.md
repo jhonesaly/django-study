@@ -106,7 +106,7 @@ Isso irá criar a pasta blog/ da aplicação com os seguintes arquivos:
 - **apps.py**: inclui a configuração principal do aplicativo de blog.
 - **migrations**: Este diretório conterá as migrações do banco de dados da aplicação. Migrações permitem que o Django rastreie as alterações do seu modelo e sincronize o banco de dados de acordo. Esta diretório contém um arquivo __init__.py vazio.
 - **models.py**: Isso inclui os modelos de dados do seu aplicativo; todos os aplicativos Django precisam tem um arquivo models.py, mas pode ser deixado vazio.
-- **tests.py: Aqui é onde você pode adicionar testes para sua aplicação.
+- **tests.py**: Aqui é onde você pode adicionar testes para sua aplicação.
 - **views.py**: A lógica do seu aplicativo vai aqui; cada visualização recebe uma solicitação HTTP, processa e retorna uma resposta.
 
 
